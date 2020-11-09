@@ -10,3 +10,7 @@ A Network Engineer at Cisco by day 🌝
 <br />
 Cybersecurity enthusiast by night 🌚
 
+[GitHub](https://github.com/shimonaprabhu)
+[LinkedIn](https://www.linkedin.com/in/shimona-prabhu-227b22106/)
+[My Portfolio](https://shimonaprabhu.github.io/Portfolio/)
+
