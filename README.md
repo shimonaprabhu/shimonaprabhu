@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left">My Arsenal 👩🏻‍💻</h3>
+<h3 align="center">My Arsenal 👩🏻‍💻</h3>
 <p align="center"> 
   <a href="https://angular.io" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
