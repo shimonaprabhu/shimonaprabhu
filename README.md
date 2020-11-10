@@ -2,13 +2,14 @@
   Hi There 👋🏻 I'm Shimona! 
 </h1>
 
+<img src="me.png" width="150" height="200">
+
 <p align='center'>
   A Network Engineer at Cisco by day 🌝
   <br />
   Cybersecurity enthusiast by night 🌚
 </p>
 
-<img src="me.png" width="100" height="150">
 <!--
 <img src="https://media.giphy.com/media/JRsQiAN79bPWUv43Ko/giphy.gif" width="50">
 -->
