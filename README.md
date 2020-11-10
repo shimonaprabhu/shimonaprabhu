@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  <img src="me.png" width="150" height="200">
+  <img src="me.png" width="175" height="200">
 </p>
 
 <p align='center'>
