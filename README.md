@@ -6,9 +6,11 @@
 <!--
 <img src="https://media.giphy.com/media/JRsQiAN79bPWUv43Ko/giphy.gif" width="50">
 -->
+<p align="top">
 A Network Engineer at Cisco by day 🌝
 <br />
-Cybersecurity enthusiast by night 🌚
+Cybersecurity enthusiast by night 🌚</p>
+
 
 [GitHub](https://github.com/shimonaprabhu)
 [LinkedIn](https://www.linkedin.com/in/shimona-prabhu-227b22106/)
