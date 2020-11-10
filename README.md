@@ -1,8 +1,7 @@
 
 ## Hi There 👋🏻 I'm Shimona! 
-## 
 
-<img src="me.png" width="50">
+<img src="me.png" width="100" height="100">
 <!--
 <img src="https://media.giphy.com/media/JRsQiAN79bPWUv43Ko/giphy.gif" width="50">
 -->
