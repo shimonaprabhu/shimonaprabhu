@@ -1,10 +1,10 @@
 <h1 align='center'>
   Hi There 👋🏻 I'm Shimona! 
 </h1>
-
+<p align='center'>
 <img src="me.png" width="150" height="200">
 
-<p align='center'>
+
   A Network Engineer at Cisco by day 🌝
   <br />
   Cybersecurity enthusiast by night 🌚
