@@ -8,41 +8,11 @@
   Cybersecurity enthusiast by night 🌚
 </p>
 
-
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/shimona-prabhu-227b22106/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://shimonaprabhu.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
-
-
-## Hi There 👋🏻 I'm Shimona! 
 <img src="me.png" width="100" height="150">
-
-A Network Engineer at Cisco by day 🌝
-<br />
-Cybersecurity enthusiast by night 🌚
-
 <!--
 <img src="https://media.giphy.com/media/JRsQiAN79bPWUv43Ko/giphy.gif" width="50">
 -->
 
-
-
-<i class="fa fa-linkedin" style="font-size:24px;color:rgb(255,255,255);"></i>
-[LinkedIn](https://www.linkedin.com/in/shimona-prabhu-227b22106/)
-[My Portfolio](https://shimonaprabhu.github.io/Portfolio/)
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shimonaprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="shimonaprabhu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shimonaprabhu" alt="shimonaprabhu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,5 +24,4 @@ Cybersecurity enthusiast by night 🌚
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimonaprabhu&show_icons=true&locale=en&layout=compact" alt="shimonaprabhu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shimonaprabhu&show_icons=true&locale=en" alt="shimonaprabhu" /></p>
 
