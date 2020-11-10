@@ -1,6 +1,6 @@
 
-### Hi There 👋🏻 
-### I'm Shimona! 
+## Hi There 👋🏻 
+## I'm Shimona! 
 <!--
 <img src="me.png" width="50">
 -->
