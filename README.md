@@ -20,12 +20,8 @@
   
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shimonaprabhu&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/shimonaprabhu/shimonaprabhu"></a> hipsters and nerds come here o/
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimonaprabhu)](https://github.com/shimonaprabhu/github-readme-stats)
+
 
 
 ## Hi There 👋🏻 I'm Shimona! 
