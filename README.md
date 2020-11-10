@@ -13,7 +13,7 @@ Cybersecurity enthusiast by night 🌚
 
 
 
-[GitHub](https://github.com/shimonaprabhu)<i class="fa fa-linkedin" style="font-size:24px;color:rgb(255,255,255);"></i>
+<i class="fa fa-linkedin" style="font-size:24px;color:rgb(255,255,255);"></i>
 [LinkedIn](https://www.linkedin.com/in/shimona-prabhu-227b22106/)
 [My Portfolio](https://shimonaprabhu.github.io/Portfolio/)
 
