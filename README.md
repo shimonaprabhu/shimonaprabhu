@@ -19,12 +19,15 @@
 
 <h3 align="center">My Arsenal 👩🏻‍💻</h3>
 <p align="center"> 
-  <a href="https://angular.io" target="_blank"> 
+<!--   <a href="https://angular.io" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="arduino" width="40" height="40"/>   
   </a>
   <a href="https://www.arduino.cc/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
+  </a>  -->
+      <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="arduino" width="40" height="40"/>   
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
