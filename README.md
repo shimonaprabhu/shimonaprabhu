@@ -24,7 +24,7 @@
   </a>
 
   <a href="https://angular.io" target="_blank"> 
-    <img src="  https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="arduino" width="40" height="40"/>   
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="arduino" width="40" height="40"/>   
   </a>
   
   <a href="https://www.arduino.cc/" target="_blank"> 
