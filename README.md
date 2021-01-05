@@ -20,7 +20,8 @@
 <h3 align="center">My Arsenal 👩🏻‍💻</h3>
 <p align="center"> 
   <a href="https://angular.io" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="arduino" width="40" height="40"/>   </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="arduino" width="40" height="40"/>   
+  </a>
   <a href="https://www.arduino.cc/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="arduino" width="40" height="40"/> 
   </a> 
@@ -85,5 +86,6 @@
 <h3 align="center"> Drop by and say hello! 🙋🏻‍♀️</h3>
 <p align='center'>
  <a href="https://www.linkedin.com/in/shimona-prabhu-227b22106/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shimona prabhu" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shimona-prabhu-227b22106/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shimona prabhu" height="30" width="40" /></a>
 </p>
 
