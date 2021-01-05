@@ -71,7 +71,8 @@
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  <a href="https://www.php.net" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
