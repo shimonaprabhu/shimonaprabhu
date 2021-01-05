@@ -22,11 +22,11 @@
   <a href="https://angular.io" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="arduino" width="40" height="40"/>   
   </a>
-
+<!--
   <a href="https://angular.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="arduino" width="40" height="40"/>   
   </a>
-  
+ --> 
   <a href="https://www.arduino.cc/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
@@ -83,10 +83,11 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
   </a> 
+  <!--
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
   </a> 
-  
+  -->
   
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
@@ -101,10 +102,11 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   </a> 
+  <!--
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" width="40" height="40"/> 
   </a>
-  
+  -->
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="sqlite" width="40" height="40"/> 
   </a>
