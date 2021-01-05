@@ -90,7 +90,7 @@
   -->
   
   <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://www.nginx.com" alt="nginx" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a> 
   
   <a href="https://www.php.net" target="_blank"> 
@@ -107,8 +107,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" width="40" height="40"/> 
   </a>
   -->
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://www.microsoft.com/en-in/windows" alt="windows" width="40" height="40"/> 
+  <a href="https://www.microsoft.com/en-in/window" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> 
   </a>
   
 </p>
