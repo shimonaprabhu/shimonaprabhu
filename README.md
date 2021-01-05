@@ -11,7 +11,7 @@
   <br />
   Cybersecurity enthusiast by night 🌚
 </p>
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
 <!--
 <img src="https://media.giphy.com/media/JRsQiAN79bPWUv43Ko/giphy.gif" width="50">
 -->
@@ -21,7 +21,7 @@
 <h3 align="center">My Arsenal 👩🏻‍💻</h3>
 <p align="center"> 
   <a href="https://angular.io" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angularjs" width="40" height="40"/> 
+    <i class="devicon-angularjs-plain colored" width="40" height="40"/> 
   </a>
   <a href="https://www.arduino.cc/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
