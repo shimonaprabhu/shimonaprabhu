@@ -6,11 +6,6 @@
   <img src="me.png" width="175" height="200">
 </p>
 
-<p align='center'>
-  A Network Engineer at Cisco by day 🌝
-  <br />
-  Cybersecurity enthusiast by night 🌚
-</p>
 <!--
 <img src="https://media.giphy.com/media/JRsQiAN79bPWUv43Ko/giphy.gif" width="50">
 -->
